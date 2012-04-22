@@ -1,0 +1,15 @@
+#External Dependencies
+#Sat Apr 21 20:35:05 CDT 2012
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/test/jetty-6.1.26.jar=src/test/scala/RunWebApp.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/test/specs_2.9.0-1-1.6.8.jar=src/test/scala/code/snippet/HelloWorldTest.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/test/junit-4.7.jar=src/test/scala/code/AppTest.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/test/jetty-util-6.1.26.jar=src/test/scala/RunWebApp.scala
+/Users/Readman/Desktop/AJaxform-Database/project/boot/scala-2.9.0-1/lib/scala-compiler.jar=src/test/scala/LiftConsole.scala
+/Users/Readman/Desktop/AJaxform-Database/target/scala_2.9.0-1/classes/code/lib/DependencyFactory$.class=src/test/scala/code/snippet/HelloWorldTest.scala
+/Users/Readman/Desktop/AJaxform-Database/target/scala_2.9.0-1/classes/bootstrap/liftweb/Boot.class=src/test/scala/LiftConsole.scala
+/Users/Readman/Desktop/AJaxform-Database/target/scala_2.9.0-1/classes/code/snippet/HelloWorld.class=src/test/scala/code/snippet/HelloWorldTest.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/compile/lift-util_2.9.0-1-2.4.jar=src/test/scala/code/AppTest.scala\:src/test/scala/code/snippet/HelloWorldTest.scala
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=src/test/scala/code/AppTest.scala\:src/test/scala/RunWebApp.scala\:src/test/scala/code/snippet/HelloWorldTest.scala\:src/test/scala/LiftConsole.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/compile/lift-common_2.9.0-1-2.4.jar=src/test/scala/code/AppTest.scala\:src/test/scala/code/snippet/HelloWorldTest.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/compile/lift-webkit_2.9.0-1-2.4.jar=src/test/scala/code/snippet/HelloWorldTest.scala
+/Users/Readman/Desktop/AJaxform-Database/project/boot/scala-2.9.0-1/lib/scala-library.jar=src/test/scala/code/AppTest.scala\:src/test/scala/RunWebApp.scala\:src/test/scala/code/snippet/HelloWorldTest.scala\:src/test/scala/LiftConsole.scala

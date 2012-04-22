@@ -1,0 +1,7 @@
+#Source Dependencies
+#Sun Apr 22 03:05:01 CDT 2012
+src/main/scala/code/snippet/HelloWorld.scala=
+src/main/scala/bootstrap/liftweb/Boot.scala=
+src/main/scala/code/lib/DependencyFactory.scala=src/main/scala/code/snippet/HelloWorld.scala
+src/main/scala/code/snippet/Ajaxform.scala=
+src/main/scala/code/model/Person.scala=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/Ajaxform.scala

@@ -1,0 +1,6 @@
+#Source Dependencies
+#Sat Apr 21 20:35:05 CDT 2012
+src/test/scala/RunWebApp.scala=
+src/test/scala/code/snippet/HelloWorldTest.scala=
+src/test/scala/LiftConsole.scala=
+src/test/scala/code/AppTest.scala=

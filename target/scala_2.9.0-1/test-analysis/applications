@@ -1,0 +1,6 @@
+#Classes with main methods
+#Sat Apr 21 20:35:05 CDT 2012
+src/test/scala/RunWebApp.scala=RunWebApp
+src/test/scala/code/snippet/HelloWorldTest.scala=code.snippet.HelloWorldTestSpecsRunner\:code.snippet.HelloWorldTestSpecs
+src/test/scala/LiftConsole.scala=LiftConsole
+src/test/scala/code/AppTest.scala=code.AppTest

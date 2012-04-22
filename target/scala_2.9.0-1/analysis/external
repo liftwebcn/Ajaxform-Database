@@ -1,0 +1,9 @@
+#External Dependencies
+#Sun Apr 22 03:05:01 CDT 2012
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/Ajaxform.scala\:src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/code/model/Person.scala
+/Users/Readman/Desktop/AJaxform-Database/project/boot/scala-2.9.0-1/lib/scala-library.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/Ajaxform.scala\:src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/code/model/Person.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/compile/lift-util_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/Ajaxform.scala\:src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/code/model/Person.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/compile/lift-webkit_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/Ajaxform.scala\:src/main/scala/code/lib/DependencyFactory.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/compile/lift-mapper_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/Ajaxform.scala\:src/main/scala/code/model/Person.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/compile/lift-db_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala
+/Users/Readman/Desktop/AJaxform-Database/lib_managed/scala_2.9.0-1/compile/lift-common_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/HelloWorld.scala
